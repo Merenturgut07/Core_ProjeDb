@@ -20,12 +20,13 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 
 # Ziyaretçi Paneli
 </br>
-![Core 5 0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_00_15](https://github.com/user-attachments/assets/314a3fc4-cfb7-440e-9d24-4641bfb7261f)
-![Core 5 0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_00_22](https://github.com/user-attachments/assets/a9070a74-19ad-4fc3-8533-32bd85f558b2)
-![Core 5 0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_00_33](https://github.com/user-attachments/assets/09fdde93-e972-49e8-b870-10adcf0e0834)
-![Core 5 0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_00_46](https://github.com/user-attachments/assets/30329f35-3464-4759-bf75-1f3dc5e996a1)
-![Core 5 0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_00_58](https://github.com/user-attachments/assets/09d86f85-751a-41f6-b525-150280c6d339)
-![Core 5 0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_01_10](https://github.com/user-attachments/assets/b00b0321-373c-4780-be21-f06e095e6aaf)
-![Core 5 0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_01_27](https://github.com/user-attachments/assets/8b19a46e-848a-4dd8-b9da-dbe259a6ee99)
+![Core 5 0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_11_43](https://github.com/user-attachments/assets/7faac51e-4816-4a2c-b965-608c66c36d7d)
+![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_08](https://github.com/user-attachments/assets/29f77d3f-1636-478c-be97-a03ff775e204)
+![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_30](https://github.com/user-attachments/assets/4df23346-2681-4683-8d59-f65666e34cb4)
+![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_42](https://github.com/user-attachments/assets/c1dcd95b-ceb6-460f-a551-d53ae60453de)
+![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_33](https://github.com/user-attachments/assets/e197f99e-b113-41ff-b392-adef45bc364f)
+![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_43](https://github.com/user-attachments/assets/4caa5438-5f51-41fc-937c-fff1a6bfd96d)
+![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_51](https://github.com/user-attachments/assets/89a7b75e-5022-4706-a8f8-484c6b756ca7)
+
 
 
