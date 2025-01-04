@@ -1,0 +1,61 @@
+﻿@model EntityLayer.Concrate.Portfolio
+@{
+	ViewData["Title"] = "AddPortfolio";
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("AddPortfolio", "AdminPortfolio", FormMethod.Post))
+{
+
+	<div class="col-12 grid-margin stretch-card">
+		<div class="card">
+			<div class="card-body">
+				<p class="card-description"> Yeni Proje Ekleme Paneli </p>
+				<form class="forms-sample">
+					@Html.ValidationMessageFor(x => x.Name)
+					@Html.Label("Deneyim Başlığı")
+					@Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+					<br />
+
+					@Html.ValidationMessageFor(x => x.ImageUrl)
+					@Html.Label("Görsel 1")
+					@Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control" })
+					<br />
+
+					@Html.ValidationMessageFor(x => x.ImageUrl2)
+					@Html.Label("Görsel 2")
+					@Html.TextBoxFor(x => x.ImageUrl2, new { @class = "form-control" })
+					<br />
+
+					@Html.ValidationMessageFor(x => x.ProjectUrl)
+					@Html.Label("Proje Url")
+					@Html.TextBoxFor(x => x.ProjectUrl, new { @class = "form-control" })
+					<br />
+
+					@Html.Label("Fiyat")
+					@Html.TextBoxFor(x => x.Price, new { @class = "form-control" })
+					<br />
+
+					@Html.Label("Paltform")
+					@Html.TextBoxFor(x => x.Platform, new { @class = "form-control" })
+					<br />
+
+					@Html.Label("Tamamlanma Oranı")
+					@Html.TextBoxFor(x => x.Value, new { @class = "form-control" })
+					<br />
+
+					@Html.Label("Durum")
+					@Html.TextBoxFor(x => x.Status, new { @class = "form-control" })
+					<br />
+					<button type="submit" class="btn btn-primary mr-2">Kaydet</button>
+					<button class="btn btn-dark">İptal</button>
+				</form>
+			</div>
+		</div>
+	</div>
+}
+
+
+
+
+

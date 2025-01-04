@@ -1,0 +1,35 @@
+﻿@model EntityLayer.Concrate.Service
+@{
+	ViewData["Title"] = "AddService";
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card-header border-0">
+	<h3 class="mb-0">Hizmet Ekleme Sayfası</h3>
+</div>
+<br />
+@using (Html.BeginForm("AddService", "AdminService", FormMethod.Post))
+{
+	<div class="col-12 grid-margin stretch-card">
+		<div class="card">
+			<div class="card-body">
+				<p class="card-description"> Yeni Hizmet Ekleme Paneli </p>
+				<form class="forms-sample">
+					@Html.Label("Hizmet Başlığı")
+					@Html.TextBoxFor(x => x.Title, new { @class = "form-control" })
+					<br />
+
+					@Html.Label("Görsel")
+					@Html.TextBoxFor(x => x.ImageUrl, new { @class = "form-control" })
+					<br />
+					<button class="btn btn-info">Kaydet</button>
+				</form>
+			</div>
+		</div>
+	</div>
+}
+
+
+
+
+

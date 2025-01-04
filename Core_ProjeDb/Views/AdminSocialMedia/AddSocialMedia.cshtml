@@ -1,0 +1,41 @@
+﻿@model EntityLayer.Concrate.Experience
+
+@{
+    ViewData["Title"] = "AddSocialMedia";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+@using (Html.BeginForm("AddSocialMedia", "AdminSocialMedia", FormMethod.Post))
+{
+
+    <div class="col-12 grid-margin stretch-card">
+        <div class="card">
+            <div class="card-body">
+                <p class="card-description"> Yeni Sosyal Medya Hesabı Ekleme Paneli </p>
+                <form class="forms-sample">
+                    <div class="form-group">
+                        <label>Başlık</label>
+                        <input type="text" class="form-control" name="Name" placeholder="Başlık Bilgisini Giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label>Url</label>
+                        <input type="text" class="form-control" name="Url" placeholder="Url Bilgisini Giriniz">
+                    </div>
+                    <div class="form-group">
+                        <label>Görsel Url</label>
+                        <input type="text" class="form-control" name="Icon" placeholder="Görsel Bilgisini Giriniz">
+                    </div>
+                    <button type="submit" class="btn btn-primary mr-2">Kaydet</button>
+                    <button class="btn btn-dark">İptal</button>
+                </form>
+            </div>
+        </div>
+    </div>
+}
+
+
+
+
+
+
+
