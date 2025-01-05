@@ -49,4 +49,6 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 ![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_06_30](https://github.com/user-attachments/assets/12a26a8e-6188-427b-a61b-7d8081b08c5c)
 ![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_06_43](https://github.com/user-attachments/assets/5613831c-d16f-4a49-accc-f2105af05638)
 ![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_06_56](https://github.com/user-attachments/assets/b96461cb-5c94-41a3-bda1-2808b465977d)
-![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_07_22](https://github.com/user-attachments/assets/eb347e34-3331-4b63-bfd1-927fa1e83ead)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_12_43](https://github.com/user-attachments/assets/a98ddf50-147d-46f7-a9b1-1226504c6480)
+
+
