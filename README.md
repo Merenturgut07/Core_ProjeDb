@@ -30,7 +30,6 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 ![Core 5 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_51](https://github.com/user-attachments/assets/3714b52a-768a-4590-b036-4aa15e9a6fd5)
 
 # Yazar Girişi 
-</br>
 - Yazar Öncelikle sisteme kayıt olmalıdır. Kayıt olma işlemini tamamladıktan sonra sisteme giriş yapabilmektedir. </br>
 - Yazar bu alanda istatistiklerini görebilmektedir.</br>
 - Kendisine gelen mesajları görebilmektedir.</br>
