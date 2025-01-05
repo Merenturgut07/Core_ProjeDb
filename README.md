@@ -85,10 +85,12 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 ![New Request - My Workspace 15_54_35](https://github.com/user-attachments/assets/5f6b19e4-fae3-43af-b588-bb540e8391dc)
 ![New Request - My Workspace 15_55_01](https://github.com/user-attachments/assets/eaf97f72-5702-4509-952b-d7fec0c2b432)
 
-
-
 # Hata Sayfası
 ![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_23_56](https://github.com/user-attachments/assets/aafe5f09-90ee-4145-9ec9-b11d6f6dcfdb)
+
+# Kullanılan Tablolar
+</br>
+![DESKTOP-FCK5R8M_SQLEXPRESS CoreProjeDb - Diagram_1_ - Microsoft SQL Server Management Studio  16_00_34](https://github.com/user-attachments/assets/cbe038e0-771d-4e71-8a9a-a1cbd4be8dfa)
 
 
 
