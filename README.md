@@ -29,8 +29,24 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 ![Core 5 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_43](https://github.com/user-attachments/assets/b2212ca0-66dc-43f4-ac01-f5ca985ca376)
 ![Core 5 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_51](https://github.com/user-attachments/assets/3714b52a-768a-4590-b036-4aa15e9a6fd5)
 
+# Yazar Girişi 
+</br>
+-Yazar Öncelikle sisteme kayıt olmalıdır. Kayıt olma işlemini tamamladıktan sonra sisteme giriş yapabilmektedir. 
+- Yazar bu alanda istatistiklerini 
+-  Kendisine gelen mesajları görebilmektedir.
+- Başka kullanıcıya veya admine mesaj atabilmektedir.
+- Profil kısmından şifresini güncelleyebilir ve profil fotoğrafı oluşturabilmektedir.
 
 
 
-
-
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 14_48_23](https://github.com/user-attachments/assets/37f03250-c48a-4b02-8032-dabc25fa65f4)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 14_48_39](https://github.com/user-attachments/assets/690038a9-c7a7-4578-908d-60c0de39d833)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 14_48_59](https://github.com/user-attachments/assets/10bc4051-a955-4357-b196-1302d98d2764)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_05_18](https://github.com/user-attachments/assets/4c07b35e-6877-493a-a34d-afe985ef8967)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_05_22](https://github.com/user-attachments/assets/dfa3e666-c807-4ecf-b48f-9bb020c4fea6)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_06_08](https://github.com/user-attachments/assets/760a0969-c721-4d15-83ca-25921e6f089d)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_06_18](https://github.com/user-attachments/assets/c9165874-2e36-4050-a943-d8b0f4b36f8f)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_06_30](https://github.com/user-attachments/assets/12a26a8e-6188-427b-a61b-7d8081b08c5c)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_06_43](https://github.com/user-attachments/assets/5613831c-d16f-4a49-accc-f2105af05638)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_06_56](https://github.com/user-attachments/assets/b96461cb-5c94-41a3-bda1-2808b465977d)
+![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_07_22](https://github.com/user-attachments/assets/eb347e34-3331-4b63-bfd1-927fa1e83ead)
