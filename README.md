@@ -13,10 +13,12 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 - Entity Framework Core: Veritabanı işlemleri için ORM.
 - Repository Design Pattern: Veri erişimini soyutlayan  tasarım deseni.
 - Fluent Validation: Kullanıcı girdileri için esnek ve okunabilir doğrulama.
-- API: Esnek veri alışverişi ve entegrasyon.
+- API: Esnek veri alışverişi ve entegrasyon. Temel crud işlemleri 
 - Identity: Kimlik doğrulama ve rol bazlı erişim kontrolü.
 - Ajax: Dinamik ve kullanıcı dostu bir deneyim.
 - Area Kullanımı: Projenin düzenli ve ölçeklenebilir yapısı için bölgesel ayrımlar.
+- Postman ile crud işlemleri
+- 
 
 # Ziyaretçi Paneli
 </br>
@@ -68,8 +70,17 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 ![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_22_48](https://github.com/user-attachments/assets/a690e79b-ddec-4e5d-a166-d09414038203)
 ![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_23_36](https://github.com/user-attachments/assets/b28dc9bf-4d04-4f1d-a62b-726f1ad8db3e)
 
+# Api Kullanımı
+</br>
+- Api üzerinden temel ekleme silme güncelleme lsiteleme işlemleri
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_40_22](https://github.com/user-attachments/assets/76d9d87e-8045-4178-9fe0-249370072ce8)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_40_35](https://github.com/user-attachments/assets/1aea8dac-ed8e-4b4e-b639-0a0f2589e70c)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_43_17](https://github.com/user-attachments/assets/23f96253-8e19-468d-8ecd-39e8c7ee9d0c)
+
+
 # Hata Sayfası
 ![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_23_56](https://github.com/user-attachments/assets/aafe5f09-90ee-4145-9ec9-b11d6f6dcfdb)
+
 
 
 
