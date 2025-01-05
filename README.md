@@ -79,9 +79,11 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 ![Core 5 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge  15_51_38](https://github.com/user-attachments/assets/3406da16-d25c-4685-a470-612ce3ae88bb)
 ![Core 5 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge  15_52_09](https://github.com/user-attachments/assets/29b73c23-497e-42c8-a05a-f760d6fafdc1)
 
+# Postman İle Crdu İşlemleri
+</br>
 
-
-
+![New Request - My Workspace 15_54_35](https://github.com/user-attachments/assets/5f6b19e4-fae3-43af-b588-bb540e8391dc)
+![New Request - My Workspace 15_55_01](https://github.com/user-attachments/assets/eaf97f72-5702-4509-952b-d7fec0c2b432)
 
 
 
