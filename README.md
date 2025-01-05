@@ -32,10 +32,10 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 # Yazar Girişi 
 </br>
 -Yazar Öncelikle sisteme kayıt olmalıdır. Kayıt olma işlemini tamamladıktan sonra sisteme giriş yapabilmektedir. 
-- Yazar bu alanda istatistiklerini 
--  Kendisine gelen mesajları görebilmektedir.
-- Başka kullanıcıya veya admine mesaj atabilmektedir.
-- Profil kısmından şifresini güncelleyebilir ve profil fotoğrafı oluşturabilmektedir.
+-Yazar bu alanda istatistiklerini 
+-Kendisine gelen mesajları görebilmektedir.
+-Başka kullanıcıya veya admine mesaj atabilmektedir.
+-Profil kısmından şifresini güncelleyebilir ve profil fotoğrafı oluşturabilmektedir.
 
 
 
