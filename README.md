@@ -54,8 +54,7 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 # Admin Paneli
 - Admin yetkisine sahip kullanıcının giriş yapabildiği alandır. Bu alanda Admin Ziyaretçi panelindeki işlemleri yönetebilmektedir.Temel ekleme silme güncelleme listeleme işlemlerini bu alandan kontrol edebilmektedir.</br>
 - Bu kısımda Ajax kullandık , ajax ile ekleme silme ıd değerine göre getirme işlemlerini yaptık.
-- 
-  
+   
 
 ![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_17_33](https://github.com/user-attachments/assets/bb4f5a39-8b40-4e43-b3a8-9c8cc63a3acd)
 ![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_17_41](https://github.com/user-attachments/assets/35f8ee43-32c2-4486-bb7e-8510ed28eded)
@@ -68,6 +67,8 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 ![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_22_43](https://github.com/user-attachments/assets/df1d85f3-a642-4e4c-ba4d-68d5fab814a1)
 ![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_22_48](https://github.com/user-attachments/assets/a690e79b-ddec-4e5d-a166-d09414038203)
 ![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_23_36](https://github.com/user-attachments/assets/b28dc9bf-4d04-4f1d-a62b-726f1ad8db3e)
+
+# Hata Sayfası
 ![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_23_56](https://github.com/user-attachments/assets/aafe5f09-90ee-4145-9ec9-b11d6f6dcfdb)
 
 
