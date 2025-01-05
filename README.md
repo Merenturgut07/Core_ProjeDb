@@ -31,11 +31,11 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 
 # Yazar Girişi 
 </br>
-- Yazar Öncelikle sisteme kayıt olmalıdır. Kayıt olma işlemini tamamladıktan sonra sisteme giriş yapabilmektedir. 
-- Yazar bu alanda istatistiklerini görebilmektedir.
-- Kendisine gelen mesajları görebilmektedir.
-- Başka kullanıcıya veya admine mesaj atabilmektedir.
-- Profil kısmından şifresini güncelleyebilir ve profil fotoğrafı oluşturabilmektedir.
+- Yazar Öncelikle sisteme kayıt olmalıdır. Kayıt olma işlemini tamamladıktan sonra sisteme giriş yapabilmektedir. </br>
+- Yazar bu alanda istatistiklerini görebilmektedir.</br>
+- Kendisine gelen mesajları görebilmektedir.</br>
+- Başka kullanıcıya veya admine mesaj atabilmektedir.</br>
+- Profil kısmından şifresini güncelleyebilir ve profil fotoğrafı oluşturabilmektedir.</br>
 </br>
 
 ![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 14_48_23](https://github.com/user-attachments/assets/37f03250-c48a-4b02-8032-dabc25fa65f4)
