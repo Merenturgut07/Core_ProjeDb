@@ -90,7 +90,8 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 
 # Kullanılan Tablolar
 </br>
-![DESKTOP-FCK5R8M_SQLEXPRESS CoreProjeDb - Diagram_1_ - Microsoft SQL Server Management Studio  16_00_34](https://github.com/user-attachments/assets/cbe038e0-771d-4e71-8a9a-a1cbd4be8dfa)
+![DESKTOP-FCK5R8M_SQLEXPRESS CoreProjeDb - Diagram_1_ - Microsoft SQL Server Management Studio](https://github.com/user-attachments/assets/151f2738-25ff-43e8-b889-4374f12d642d)
+
 
 
 
