@@ -20,7 +20,7 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 
 # Ziyaretçi Paneli
 </br>
-![Core 5 0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_11_43](https://github.com/user-attachments/assets/bb38b42e-b189-4c55-ae7f-c762bd9b5acb)
+(https://github.com/user-attachments/assets/bb38b42e-b189-4c55-ae7f-c762bd9b5acb)
 ![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_08](https://github.com/user-attachments/assets/42b3601c-3150-4038-9890-2ddd41c14e63)
 ![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_30](https://github.com/user-attachments/assets/3bfa6b06-0af7-4b72-bf0e-4c99626335f6)
 ![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_42](https://github.com/user-attachments/assets/822e7d6c-f1c0-4cf5-b3c8-dc58ca4decd1)
