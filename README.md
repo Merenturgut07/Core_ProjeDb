@@ -29,6 +29,8 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 ![Core 5 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_43](https://github.com/user-attachments/assets/b2212ca0-66dc-43f4-ac01-f5ca985ca376)
 ![Core 5 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_51](https://github.com/user-attachments/assets/3714b52a-768a-4590-b036-4aa15e9a6fd5)
 
+
+
 # Yazar Girişi 
 - Yazar Öncelikle sisteme kayıt olmalıdır. Kayıt olma işlemini tamamladıktan sonra sisteme giriş yapabilmektedir. </br>
 - Yazar bu alanda istatistiklerini görebilmektedir.</br>
@@ -48,5 +50,25 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 ![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_06_43](https://github.com/user-attachments/assets/5613831c-d16f-4a49-accc-f2105af05638)
 ![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_06_56](https://github.com/user-attachments/assets/b96461cb-5c94-41a3-bda1-2808b465977d)
 ![Skydash Admin - Profil 1 - Microsoft​ Edge 5 01 2025 15_12_43](https://github.com/user-attachments/assets/a98ddf50-147d-46f7-a9b1-1226504c6480)
+
+# Admin Paneli
+- Admin yetkisine sahip kullanıcının giriş yapabildiği alandır. Bu alanda Admin Ziyaretçi panelindeki işlemleri yönetebilmektedir.Temel ekleme silme güncelleme listeleme işlemlerini bu alandan kontrol edebilmektedir.</br>
+- Bu kısımda Ajax kullandık , ajax ile ekleme silme ıd değerine göre getirme işlemlerini yaptık.
+- 
+  
+
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_17_33](https://github.com/user-attachments/assets/bb4f5a39-8b40-4e43-b3a8-9c8cc63a3acd)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_17_41](https://github.com/user-attachments/assets/35f8ee43-32c2-4486-bb7e-8510ed28eded)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_19_46](https://github.com/user-attachments/assets/1d08642c-e704-4b48-9ccd-93df8d579a6d)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_20_43](https://github.com/user-attachments/assets/f82afd40-0c51-48e0-95cb-a6032c762da7)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_20_54](https://github.com/user-attachments/assets/e1552d9c-e127-4164-a5a9-ebb12a182216)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_21_05](https://github.com/user-attachments/assets/7925de8a-dc42-41a2-a979-446966beb40e)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_22_33](https://github.com/user-attachments/assets/02890088-e228-4b00-836f-b38236e612df)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_22_37](https://github.com/user-attachments/assets/f3a9c61b-1903-4164-9e00-2e35e928de3a)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_22_43](https://github.com/user-attachments/assets/df1d85f3-a642-4e4c-ba4d-68d5fab814a1)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_22_48](https://github.com/user-attachments/assets/a690e79b-ddec-4e5d-a166-d09414038203)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_23_36](https://github.com/user-attachments/assets/b28dc9bf-4d04-4f1d-a62b-726f1ad8db3e)
+![Core 5 0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_23_56](https://github.com/user-attachments/assets/aafe5f09-90ee-4145-9ec9-b11d6f6dcfdb)
+
 
 
