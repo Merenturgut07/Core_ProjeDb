@@ -74,7 +74,8 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 </br>
 - Api üzerinden temel ekleme silme güncelleme lsiteleme işlemleri
 </br>
-![Core 5.0 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 15_49_11](https://github.com/user-attachments/assets/6ba43369-f1cb-4905-83dc-64345768c3eb)
+![Core 5 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 15_49_11](https://github.com/user-attachments/assets/0ca5b63e-907b-45ec-af11-b39a8d2e01b6)
+
 
 
 
