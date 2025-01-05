@@ -76,6 +76,8 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 </br>
 
 ![Core 5 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 15_49_11](https://github.com/user-attachments/assets/3a86fdca-f215-4d49-b603-03194edecfb9)
+![Core 5 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge  15_51_38](https://github.com/user-attachments/assets/3406da16-d25c-4685-a470-612ce3ae88bb)
+![Core 5 Admin Paneli ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge  15_52_09](https://github.com/user-attachments/assets/29b73c23-497e-42c8-a05a-f760d6fafdc1)
 
 
 
