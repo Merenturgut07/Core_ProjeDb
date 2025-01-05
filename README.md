@@ -20,13 +20,12 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 
 # Ziyaretçi Paneli
 </br>
-![Core 5.0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_11_43](https://github.com/user-attachments/assets/7faac51e-4816-4a2c-b965-608c66c36d7d)
-![Core 5.0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_08](https://github.com/user-attachments/assets/29f77d3f-1636-478c-be97-a03ff775e204)
-![Core 5.0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_30](https://github.com/user-attachments/assets/4df23346-2681-4683-8d59-f65666e34cb4)
-![Core 5.0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_42](https://github.com/user-attachments/assets/c1dcd95b-ceb6-460f-a551-d53ae60453de)
-![Core 5.0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_33](https://github.com/user-attachments/assets/e197f99e-b113-41ff-b392-adef45bc364f)
-![Core 5.0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_43](https://github.com/user-attachments/assets/4caa5438-5f51-41fc-937c-fff1a6bfd96d)
-![Core 5.0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_51](https://github.com/user-attachments/assets/89a7b75e-5022-4706-a8f8-484c6b756ca7)
+![Core 5 0 Porje ve diğer 1 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_11_43](https://github.com/user-attachments/assets/bb38b42e-b189-4c55-ae7f-c762bd9b5acb)
+![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_08](https://github.com/user-attachments/assets/42b3601c-3150-4038-9890-2ddd41c14e63)
+![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_30](https://github.com/user-attachments/assets/3bfa6b06-0af7-4b72-bf0e-4c99626335f6)
+![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_12_42](https://github.com/user-attachments/assets/822e7d6c-f1c0-4cf5-b3c8-dc58ca4decd1)
+![Core 5 0 Porje ve diğer 2 sayfa - Profil 1 - Microsoft​ Edge 5 01 2025 02_13_33](https://github.com/user-attachments/assets/a09ecdba-61c6-4c78-8ade-6c3e461c8519)
+
 
 
 
