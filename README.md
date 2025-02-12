@@ -9,7 +9,7 @@ Bu proje, kullanıcıların kişisel bilgilerini, projelerini ve referansların�
 
 ## Projenin Teknik Özellikleri ve Kullanılan Teknolojiler 💻
 - Bu proje, katmanlı mimari (N-Tier Architecture) prensiplerine uygun olarak tasarlandı ve aşağıdaki teknolojilerle geliştirildi:
-- ASP.NET Core 5.0  
+- ASP.NET Core 6.0  
 - Entity Framework Core: Veritabanı işlemleri için ORM.
 - Repository Design Pattern: Veri erişimini soyutlayan  tasarım deseni.
 - Fluent Validation: Kullanıcı girdileri için esnek ve okunabilir doğrulama.
